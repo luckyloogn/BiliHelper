@@ -1,0 +1,15 @@
+{
+  "assets": [],
+  "build": {
+    "build_number": 0,
+    "build_time": 0
+  },
+  "useFeatures": [],
+  "icon": "assets/icons/ic_logo.png",
+  "main": "main.js",
+  "name": "BiliHelper",
+  "packageName": "script.bilihelper",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
